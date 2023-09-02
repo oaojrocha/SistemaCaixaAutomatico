@@ -52,7 +52,6 @@ public class Caixa {
 
 	public float obterSaldoCaixa(){
 		return saldoCaixa;
-
 	}
 
 
